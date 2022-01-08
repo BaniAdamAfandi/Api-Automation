@@ -1,0 +1,19 @@
+{
+  "name": "kuncie_api",
+  "version": "1.0.0",
+  "description": "kuncie api graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "adam",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3",
+    "supertest": "^6.1.6"
+  }
+}
